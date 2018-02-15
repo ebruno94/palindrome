@@ -1,0 +1,8 @@
+/Users/Guest/Desktop/Palindromes.Solution/Palindrome/bin/Debug/netcoreapp1.1/Palindrome.deps.json
+/Users/Guest/Desktop/Palindromes.Solution/Palindrome/bin/Debug/netcoreapp1.1/Palindrome.runtimeconfig.json
+/Users/Guest/Desktop/Palindromes.Solution/Palindrome/bin/Debug/netcoreapp1.1/Palindrome.runtimeconfig.dev.json
+/Users/Guest/Desktop/Palindromes.Solution/Palindrome/bin/Debug/netcoreapp1.1/Palindrome.dll
+/Users/Guest/Desktop/Palindromes.Solution/Palindrome/bin/Debug/netcoreapp1.1/Palindrome.pdb
+/Users/Guest/Desktop/Palindromes.Solution/Palindrome/obj/Debug/netcoreapp1.1/Palindrome.AssemblyInfo.cs
+/Users/Guest/Desktop/Palindromes.Solution/Palindrome/obj/Debug/netcoreapp1.1/Palindrome.dll
+/Users/Guest/Desktop/Palindromes.Solution/Palindrome/obj/Debug/netcoreapp1.1/Palindrome.pdb

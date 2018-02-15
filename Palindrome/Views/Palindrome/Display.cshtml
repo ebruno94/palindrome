@@ -1,0 +1,25 @@
+@using PalindromeProject.Models;
+@{
+    Layout = "_Layout";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <h1 id="palindrome">@Palindrome.GetWord() | @Palindrome.GetMirroredString()</h1>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    var updateImage = function() {
+        var leftValue = ($("html").width()-$("#palindrome").width())/2;
+        var topValue = ($("html").height()-$("#palindrome").height())/2;
+        $("#palindrome").css("left", leftValue);
+        $("#palindrome").css("top", topValue);
+        window.requestAnimationFrame(updateImage); 
+    }
+    window.requestAnimationFrame(updateImage);
+</script>
+
+@* window.requestAnimationFrame(callback); *@
